@@ -1,2 +1,5 @@
 name: Getting Started
 	markdown: kramdown
+permalink: /blog/:title
+plugins:
+  - jekyll-sitemap
